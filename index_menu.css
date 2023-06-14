@@ -1,0 +1,299 @@
+table {
+
+width: 75%;
+height: auto;
+table-layout: center;
+border-collapse: collapse;
+margin-left: 50%;
+margin-right: 100px;
+margin-top: 50px;
+margin-bottom: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+text-align: center;
+padding-color:#F25F34 ;
+border-color:#F25F34 ;
+;
+
+}
+
+p{
+
+  font-color: #FFFFFF;
+}
+
+td {
+  background: linear-gradient(to bottom, #ffcc00, #ff6600);
+  /* Replace #ffcc00 and #ff6600 with your desired gradient colors */
+}
+
+br {
+  background: linear-gradient(to bottom, #ffcc00, #000000);
+  /* Replace #ffcc00 and #ff6600 with your desired gradient colors */
+}
+
+th, td, br{
+
+border-style: inset;
+text-align: center;
+padding: 8px;
+background-color: #FFFF ;
+border-color: #CE1242 ;
+color: #000000 ;
+font-family: Arial;
+font-size: 17px;
+
+}
+
+
+th {
+
+background-color: #FFC30F  ;
+border-color: #860720;
+font-family: Arial;
+color: #000000 ;
+text-align: center;
+
+}
+
+
+
+.div .margin, .border, .br {
+
+  background-color: black;
+border-color: #F15A2D ;
+
+}
+
+.img {
+
+  background-color: #000000; ;
+border-color: #F15A2D ;
+
+}
+.box-part text-center{
+
+    background: linear-gradient(to bottom, #ffcc00, #000000); ;
+border-color: black ;
+}
+
+.image {
+
+padding-bottom: 0px;
+margin-bottom: 0px;
+padding-top: 0px;
+  background: linear-gradient(to bottom, #ffcc00, #000000);
+
+}
+
+.my-button {
+  background: linear-gradient(to bottom,#4F0E04  , #911907 );
+  color: #FFFF;
+  padding: 0px 5px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 0px 5px;
+  transition-duration: 0.8s;
+  margin-bottom: 0px;
+ border-color: #93203D ;
+ font-family: Arial;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+.my-button3 {
+  background: linear-gradient(to bottom, #BB0000  , #000000);
+  color: #FFFF;
+  padding: 0px 5px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 0px 5px;
+  transition-duration: 0.8s;
+  margin-bottom: 0px;
+ border-color: #93203D ;
+ font-family: Arial;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+.my-button4 {
+  background: linear-gradient(to bottom, #FD700F , #000000);
+  color: #FFFF;
+  padding: 0px 5px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 0px 5px;
+  transition-duration: 0.8s;
+  margin-bottom: 0px;
+ border-color: #93203D ;
+ font-family: Arial;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+.my-button2 {
+  background: linear-gradient(to bottom, #ffcc00, #000000);
+  color: #FFFF;
+  
+ 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+ 
+  
+  margin-bottom: 0px;
+ border-color: #93203D ;
+ font-family: Arial;
+  box-shadow: 0 6px 20px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+
+.my-button:hover  {
+  background-color: #8C0D2D  ;
+  color: #FFFF;
+  padding: 0px 5px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 0px 5px;
+  transition-duration: 0.8s;
+  margin-bottom: 0px;
+ border-color: #93203D ;
+ font-family: Arial;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+.my-button3:hover  {
+  background-color: #8C0D2D  ;
+  color: #FFFF;
+  padding: 0px 5px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 0px 5px;
+  transition-duration: 0.8s;
+  margin-bottom: 0px;
+ border-color: #93203D ;
+ font-family: Arial;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+
+.box-part_text-center {
+
+  background: linear-gradient(to bottom, #ffcc00, #000000);
+border-color: #93203D ;
+
+}
+
+*{
+
+
+font-weight: bold;
+}
+
+.content {
+
+width: 75%;
+height: auto;
+table-layout: auto;
+border-collapse: collapse;
+margin-left: 150px;
+margin-right: 100px;
+margin-top: 0px;
+margin-bottom: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+text-align: center;
+padding-color:#900C3F ;
+border-color:#900C3F ;
+font-size: 30px;
+
+
+}
+
+.Add-student {
+
+text-align: center;
+color:#BD2235  ;
+font-family: Arial;
+font-size: 32px;
+
+}
+
+.my-button2:hover  {
+  background-color: #8C0D2D  ;
+  color: #FFFF;
+  padding: 0px 5px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0px 5px;
+
+  margin-bottom: 0px;
+ border-color: #93203D ;
+ font-family: Arial;
+
+}
+
+.back-button {
+
+  background: linear-gradient(to bottom, #ffcc00, #000000);border-color: #93203D ;
+padding-bottom: 4px;
+margin-bottom: 5px;
+padding-top: 5px;
+  background: linear-gradient(to bottom, #ffcc00, #000000);
+height: 20px;
+width: 20px;
+}
+
+}
+
+p {
+
+font-size: 50px;
+color: #D0C7C8;
+
+}
+
+input {
+
+color: pink;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:focus,
+a:hover,
+a:active {
+  text-decoration: none;
+}
+
+body {
+  background-color: black;
+}
